@@ -13,10 +13,10 @@ export default function Footer() {
             compete, and earn rewards
           </p>
           <div className="flex flex-row md:gap-10 gap-7 items-center mt-2 md:w-70 w-full">
-            <img src="/twitter.svg" alt="" />
-            <img src="/instagram.svg" alt="" />
+            <img src="/Twitter.svg" alt="" />
+            <img src="/Instagram.svg" alt="" />
             <img src="/LinkedIn.svg" alt="" className="mb-1" />
-            <img src="/youtube.svg" alt="" />
+            <img src="/Youtube.svg" alt="" />
           </div>
         </div>
         <div className="flex flex-col  gap-2 text-[#CCCCCC]">
