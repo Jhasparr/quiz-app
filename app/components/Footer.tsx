@@ -16,7 +16,7 @@ export default function Footer() {
             <img src="/Twitter.svg" alt="" />
             <img src="/Instagram.svg" alt="" />
             <img src="/LinkedIn.svg" alt="" className="mb-1" />
-            <img src="/Youtube.svg" alt="" />
+            <img src="/YouTube.svg" alt="" />
           </div>
         </div>
         <div className="flex flex-col  gap-2 text-[#CCCCCC]">
